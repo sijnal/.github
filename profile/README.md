@@ -40,12 +40,6 @@ Nuestro equipo tiene experiencia en una amplia variedad de tecnologías, incluye
 3. **Desarrollo e implementación**: nuestro equipo de desarrolladores y expertos en TI se encarga de construir y desplegar la solución.
 4. **Soporte continuo**: ofrecemos soporte gratuito de 2 semanas por defecto con cada proyecto y mantenimiento para asegurar el rendimiento óptimo de los sistemas.
 
-## Contacta con Nosotros
-
-¿Tienes alguna pregunta o necesitas ayuda para comenzar un proyecto? ¡Contáctanos! Estaremos encantados de discutir tus necesidades y explorar cómo podemos ayudarte a alcanzar tus objetivos tecnológicos.
-
-- **Correo electrónico**: eliasreyes1601@gmail.com
-
 ---
 
 2024 **Sijnal** - Vamos por más.
